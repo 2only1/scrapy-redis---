@@ -5,3 +5,4 @@
   确保关闭私有模式：protected-mode no
 3·开启redis服务器
   F:\redis\Redis-x64-3.0.504\start-redis.bat
+4·保证服务端和main端的python版本是一致的
